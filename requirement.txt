@@ -1,0 +1,15 @@
+fuzzywuzzy
+numpy
+scipy
+sklearn
+wordcloud
+matplotlib
+streamlit
+nltk
+bs4
+regex
+gensim==3.6.0
+lxml
+xgboost
+argparse
+pickle

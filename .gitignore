@@ -1,0 +1,5 @@
+.idea/
+build_tools/
+_pycahce_/
+venv/
+GoogleNews-vectors-negative300.bin.gz
