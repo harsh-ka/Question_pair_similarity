@@ -13,3 +13,4 @@ lxml
 xgboost
 argparse
 pickle
+seaborn
